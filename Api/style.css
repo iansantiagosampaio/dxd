@@ -1,0 +1,16 @@
+*{
+
+margin: 0;
+padding: 0;
+
+
+}
+
+body{
+padding-top: 20vh;
+display: flex;
+width: 100vw;
+padding-left: 1vw;
+gap: 20vw;
+flex-wrap: wrap;
+}
